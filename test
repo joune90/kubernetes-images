@@ -1,0 +1,1 @@
+helm install stable/nfs-server-provisioner --name nfs-server-provisioner -f values.yaml
