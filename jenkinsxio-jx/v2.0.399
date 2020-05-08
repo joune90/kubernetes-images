@@ -1,0 +1,1 @@
+FROM gcr.io/jenkinsxio/jx:v2.0.399
